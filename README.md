@@ -1,12 +1,8 @@
-<img src="images/header.png" width="100%" height="50%"/>
+<img src="./header.avif" width="100%" height="50%"/>
 
 <p align="center">
   <a href="https://x.com/your_twitter">
   <img src="images/twitter.svg"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/your_linkedin">
-  <img src="images/linkedin.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:your@mail.com">
