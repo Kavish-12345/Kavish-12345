@@ -1,20 +1,17 @@
 <img src="./header.avif" width="100%" height="50%"/>
 
+
 <p align="center">
-  <a href="https://x.com/your_twitter">
-  <img src="images/twitter.svg"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:your@mail.com">
-    <img src="images/gmail.svg"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/your_discord_id">
+  <a href="https://discordapp.com/users/840183129288343573" alt="Discord">
   <img src="images/discord.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/SuriPuri23">
+  <img src="images/twitter.svg"/>
   </a>
 </p>
 
-<br/>
+
 
 <p>
   
@@ -43,13 +40,14 @@ Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Enginee
 </p>
   
 ---
-## 🔥 Github Stats
+## 📊 GitHub Stats  
+<div align="center">
 
-<a href="https://github.com/Kavish-12345"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kavish-12345&theme=radical&title_color=3996fa&show_icons=true"></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavish-12345&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3996fa&fire=3996fa&sideNums=3996fa&mode=weekly"></a>
-<a href="https://github.com/Kavish-12345">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish-12345&hide=html,css&layout=compact&langs_count=7&theme=radical"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Kavish-12345&show_icons=true&theme=tokyonight" height="170" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavish-12345&theme=tokyonight" height="170" />
+
+</div>
 
 ---
 
@@ -76,20 +74,26 @@ Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Enginee
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,ts,nodejs,rust,git,linux,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=solidity,ts,nodejs,rust,git,docker,githubactions" />
 </p>
 
 ---
 
 ## 🌱 Open Source
 
-Contributing to **CNCF projects** • **Infrastructure & reliability tooling** • **Developer tooling & docs**
+- Contributing to CNCF projects
+- Building infrastructure & reliability tooling
+- Improving developer tooling & documentation
 
 ---
 
 ## 🚀 Recent Work
 
-Building Uniswap v4 hooks • Exploring AVS automation • Optimizing LSP Rebalancer • CNCF contributions • Writing DeFi research threads
+- Building Uniswap v4 hooks
+- Exploring AVS automation patterns
+- Optimizing LSP Rebalancer
+- CNCF open source contributions
+- Writing DeFi research threads
 
 ---
 
