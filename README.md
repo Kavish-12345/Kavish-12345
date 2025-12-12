@@ -100,4 +100,4 @@ Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Enginee
 
 <p align="center">⚡ Always building. Always shipping.</p>
 
-<img src="images/footer.png" width="100%" height="auto"/>
+
