@@ -79,7 +79,6 @@ Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Enginee
 </p>
 
 ---
-s
 <p align="center">⚡ Always building. Always shipping.</p>
 
 
