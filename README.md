@@ -2,12 +2,11 @@
 
 
 <p align="center">
-  <a href="https://discordapp.com/users/840183129288343573" alt="Discord">
-  <img src="images/discord.svg"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/SuriPuri23">
-  <img src="images/twitter.svg"/>
+  <img src="./twitter.svg"/>
+  </a>
+  <a href="https://discordapp.com/users/840183129288343573" alt="Discord">
+  <img src="./discord.svg"/>
   </a>
 </p>
 
