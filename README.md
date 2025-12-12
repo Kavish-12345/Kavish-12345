@@ -79,25 +79,7 @@ Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Enginee
 </p>
 
 ---
-
-## 🌱 Open Source
-
-- Contributing to CNCF projects
-- Building infrastructure & reliability tooling
-- Improving developer tooling & documentation
-
----
-
-## 🚀 Recent Work
-
-- Building Uniswap v4 hooks
-- Exploring AVS automation patterns
-- Optimizing LSP Rebalancer
-- CNCF open source contributions
-- Writing DeFi research threads
-
----
-
+s
 <p align="center">⚡ Always building. Always shipping.</p>
 
 
