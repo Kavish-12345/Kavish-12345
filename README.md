@@ -1,19 +1,6 @@
 <img src="./header.avif" width="100%" height="50%"/>
 
 
-<p align="center">
-  <a href="https://twitter.com/SuriPuri23">
-  <img src="./twitter.svg"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/840183129288343573" alt="Discord">
-  <img src="./discord.svg"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  </a>
-</p>
-
-
-
 <p>
   
 Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Engineer specializing in DeFi Infrastructure. I work with Uniswap v4, EigenLayer AVS, Solidity, TypeScript, and Rust. I love building onchain systems and contributing to open source. 
