@@ -39,25 +39,6 @@ Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Enginee
 
 ---
 
-## ✨ Featured Projects
-
-<p align="left">
-  <a href="https://github.com/Kavish-12345/lsp-rebalancer"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kavish-12345&repo=lsp-rebalancer&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true"></a>
- <a href="https://github.com/Kavish-12345/rust-learnings"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kavish-12345&repo=rust-learnings&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true"></a>
-  <a href="https://github.com/Kavish-12345/contribute-site"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kavish-12345&repo=contribute-site&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true"></a>
-  <a href="https://github.com/Kavish-12345/jaeger"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kavish-12345&repo=jaeger&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true"></a>
-</p>
-<p align="center" style="margin-top: 4rem">
-  <a href="https://github.com/Kavish-12345?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/Kavish-12345?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FKavish-12345"/></a>
-  <a href="https://github.com/Kavish-12345?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Kavish-12345?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/Kavish-12345">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kavish-12345&style=for-the-badge"/></a>
-</p>
-
----
 
 ## 🧰 Tech Stack
 
