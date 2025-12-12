@@ -16,7 +16,7 @@
 
 <p>
   
-Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Engineer specializing in DeFi Infrastructure. I work with Uniswap v4, EigenLayer AVS, Solidity, TypeScript, and Rust. I love building onchain systems and contributing to open source. ⚡
+Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Engineer specializing in DeFi Infrastructure. I work with Uniswap v4, EigenLayer AVS, Solidity, TypeScript, and Rust. I love building onchain systems and contributing to open source. 
 
 <div>
 <details>
@@ -32,7 +32,7 @@ Hi 👋, I am <font size=6>**Kavish Srivastava**</font> a Smart Contract Enginee
 
 -   💬 Ask me about **Uniswap v4, EigenLayer, Smart Contracts, DeFi, TypeScript**
 
--   📫 Reach me at **your@mail.com**
+-   📫 Reach me at **kavishsrivastava37@mail.com**
 
 -   💖 I believe **DeFi will reshape finance**
 
