@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Hi, I'm Kavish Srivastava</h1>
+
 <p align="center">
-  <b>Smart Contract Engineer • Uniswap v4 • EigenLayer AVS • DeFi Infra</b><br>
-  I build high-performance onchain systems.
+  <b>Smart Contract Engineer • Uniswap v4 • EigenLayer AVS • DeFi</b>
 </p>
 
 <p align="center">
@@ -18,29 +18,35 @@
 
 ---
 
-## 🔹 Featured Project — **LSP Rebalancer (AVS + Uniswap v4)**  
-Automated Uniswap v4 liquidity position rebalancing for LSTs using an EigenLayer Actively Validated Service.
+## 🔹 Featured Project — **LSP Rebalancer**
 
-- Custom Uniswap v4 hook  
-- Automated tick monitoring & rebalance execution  
-- Secure operator → AVS → onchain execution  
-- Configurable for any LST pair  
+Automated Uniswap v4 liquidity position rebalancing for LSTs using EigenLayer AVS.
 
-👉 **Repo:** https://github.com/Kavish-12345/lsp-rebalancer  
+- Custom Uniswap v4 hook
+- Automated tick monitoring & rebalance execution
+- Secure operator → AVS → onchain execution
+- Configurable for any LST pair
 
----
-
-## 🌱 Open Source Contributions  
-I contribute to:
-- **CNCF projects**  
-- **Infra & reliability tooling**  
-- **Developer tooling + docs improvements**  
-
-(Open source logs being updated.)
+👉 **Repo:** https://github.com/Kavish-12345/lsp-rebalancer
 
 ---
 
-## 🧰 Tech Stack  
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavish-12345&show_icons=true&theme=tokyonight" height="170" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavish-12345&theme=tokyonight" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish-12345&layout=compact&theme=tokyonight" height="170" />
+</div>
+
+---
+
+## 🧰 Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=solidity,ts,nodejs,git,linux" />
   <br />
@@ -49,23 +55,25 @@ I contribute to:
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
+## 🌱 Open Source Contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kavish-12345&show_icons=true&theme=tokyonight" height="170" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavish-12345&theme=tokyonight" height="170" />
+I contribute to:
 
-</div>
+- **CNCF projects**
+- **Infrastructure & reliability tooling**
+- **Developer tooling + docs improvements**
+
+(Open source logs being updated.)
 
 ---
 
-## 🚀 Recent Work  
-- Building advanced Uniswap v4 hooks  
-- Exploring AVS automation patterns  
-- Improving LSP Rebalancer execution flow  
-- CNCF OSS contributions  
-- Writing infra-focused research threads  
+## 🚀 Recent Work
+
+- Building advanced Uniswap v4 hooks
+- Exploring AVS automation patterns
+- Improving LSP Rebalancer execution flow
+- CNCF OSS contributions
+- Writing research threads on DeFi infrastructure
 
 ---
 
